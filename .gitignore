@@ -1,0 +1,30 @@
+# macOS & system stuff
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon?
+._*
+
+# Obsidian junk (if any)
+.obsidian/
+.cache/
+workspace.json
+
+# Backups & logs
+*.log
+*.bak
+*.tmp
+~$*
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Dropbox conflicts
+* (Case Conflict)*
+* (Conflicted copy)*
+
+# Files to never commit (adjust if needed)
+secrets.txt
+.env
