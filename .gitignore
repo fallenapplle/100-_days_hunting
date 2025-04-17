@@ -28,3 +28,4 @@ workspace.json
 # Files to never commit (adjust if needed)
 secrets.txt
 .env
+daily_git_commit.sh
